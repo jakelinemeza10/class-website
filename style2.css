@@ -1,0 +1,23 @@
+body {
+    background-color: #ACBEA3;
+    color: #001514;
+    font-size: 16px;
+    font-style:italic;
+    line-height: 1.5;
+    font-family: Times New Roman, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 16px;
+    font-style: normal;
+    color: #093824;
+}
+
+a {
+    color: #6F0426;
+    text-decoration: underline;
+}
